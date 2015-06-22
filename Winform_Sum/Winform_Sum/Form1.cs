@@ -19,7 +19,7 @@ namespace Winform_Sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-
+            abc=5
         }
     }
 }
